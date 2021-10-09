@@ -1,0 +1,3 @@
+type = "lua"
+src = "https://git.sr.ht/~tmpod/black-lite/blob/master/black.lua"
+target = "lite"

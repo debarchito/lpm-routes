@@ -1,0 +1,10 @@
+type = "lua"
+src = "https://raw.githubusercontent.com/takase1121/lite-contextmenu/master/init.xl.lua"
+rename = "contextmenu.lua"
+target = "1.16"
+
+[dependency.fsutils]
+type = "lua"
+src = "https://raw.githubusercontent.com/takase1121/lite-fsutils/master/init.lua"
+rename = "fsutils.lua"
+target = "1.16"

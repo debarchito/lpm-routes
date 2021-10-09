@@ -1,0 +1,3 @@
+type = "lua"
+src = "https://raw.githubusercontent.com/lite-xl/lite-plugins/master/plugins/centerdoc.lua"
+target = "2.0"
