@@ -1,5 +1,6 @@
 type = "git"
 args = ["clone", "https://github.com/vincens2005/lite-xl-discord.git"]
+target = "2.0"
 
-[dependency]
-external = ["python3", "pickle", "argparse", "pypresence"]
+[external]
+dependencies = ["python3", "pickle", "argparse", "pypresence"]

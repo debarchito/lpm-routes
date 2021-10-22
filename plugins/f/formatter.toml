@@ -1,0 +1,4 @@
+type = "git"
+args = ["clone", "https://github.com/vincens2005/lite-formatters"]
+rename = "formatter"
+target = "2.0"
