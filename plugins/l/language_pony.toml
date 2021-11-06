@@ -1,0 +1,5 @@
+type = "git"
+args = ["clone", "https://github.com/MrAnyx/lite-plugin-pony.git"]
+renameFiles = [
+  ["language_pony.lua", "init.lua"]
+]

@@ -1,0 +1,2 @@
+type = "git"
+args = ["clone", "https://github.com/Kode-Community/kinc_plugin.git"]

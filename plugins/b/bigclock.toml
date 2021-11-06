@@ -1,3 +1,2 @@
 type = "lua"
 src = "https://raw.githubusercontent.com/lite-xl/lite-plugins/master/plugins/bigclock.lua"
-target = "2.0"

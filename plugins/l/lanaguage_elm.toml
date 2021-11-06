@@ -1,0 +1,2 @@
+type = "lua"
+src = "https://raw.githubusercontent.com/lite-xl/lite-plugins/master/plugins/language_elm.lua"

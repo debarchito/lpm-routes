@@ -1,1 +1,2 @@
+type = "lua"
 src = "https://raw.githubusercontent.com/rxi/lite-colors/master/colors/onedark.lua"

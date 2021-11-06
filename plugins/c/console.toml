@@ -1,4 +1,3 @@
 type = "lua"
 src = "https://raw.githubusercontent.com/lite-xl/console/master/init.lua"
 rename = "console"
-target = "2.0"
